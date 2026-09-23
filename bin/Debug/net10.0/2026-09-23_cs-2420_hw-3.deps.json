@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "2026-09-23_cs-2420_hw-3/1.0.0": {
+        "runtime": {
+          "2026-09-23_cs-2420_hw-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2026-09-23_cs-2420_hw-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

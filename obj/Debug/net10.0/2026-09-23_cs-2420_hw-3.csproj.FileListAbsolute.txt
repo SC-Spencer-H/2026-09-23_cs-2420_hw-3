@@ -1,0 +1,15 @@
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\bin\Debug\net10.0\2026-09-23_cs-2420_hw-3.exe
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\bin\Debug\net10.0\2026-09-23_cs-2420_hw-3.deps.json
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\bin\Debug\net10.0\2026-09-23_cs-2420_hw-3.runtimeconfig.json
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\bin\Debug\net10.0\2026-09-23_cs-2420_hw-3.dll
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\bin\Debug\net10.0\2026-09-23_cs-2420_hw-3.pdb
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.AssemblyInfoInputs.cache
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.AssemblyInfo.cs
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.csproj.CoreCompileInputs.cache
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.sourcelink.json
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.dll
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\refint\2026-09-23_cs-2420_hw-3.dll
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.pdb
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\2026-09-23_cs-2420_hw-3.genruntimeconfig.cache
+C:\Users\spencer.harston\repos\CS-2420\2026-09-23_cs-2420_hw-3\obj\Debug\net10.0\ref\2026-09-23_cs-2420_hw-3.dll
