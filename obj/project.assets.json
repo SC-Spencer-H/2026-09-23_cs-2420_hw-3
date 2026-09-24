@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {}
   },
@@ -8,24 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\spencer.harston\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Hallwaerd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spencer.harston\\repos\\CS-2420\\2026-09-23_cs-2420_hw-3\\2026-09-23_cs-2420_hw-3.csproj",
+      "projectUniqueName": "c:\\Users\\Hallwaerd\\MyFolders\\School\\2026-FALL\\CS-2420\\2026-09-23_cs-2420_hw-3\\2026-09-23_cs-2420_hw-3.csproj",
       "projectName": "2026-09-23_cs-2420_hw-3",
-      "projectPath": "C:\\Users\\spencer.harston\\repos\\CS-2420\\2026-09-23_cs-2420_hw-3\\2026-09-23_cs-2420_hw-3.csproj",
-      "packagesPath": "C:\\Users\\spencer.harston\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spencer.harston\\repos\\CS-2420\\2026-09-23_cs-2420_hw-3\\obj\\",
+      "projectPath": "c:\\Users\\Hallwaerd\\MyFolders\\School\\2026-FALL\\CS-2420\\2026-09-23_cs-2420_hw-3\\2026-09-23_cs-2420_hw-3.csproj",
+      "packagesPath": "C:\\Users\\Hallwaerd\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Hallwaerd\\MyFolders\\School\\2026-FALL\\CS-2420\\2026-09-23_cs-2420_hw-3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\spencer.harston\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Hallwaerd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,12 +28,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -53,11 +46,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -75,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
